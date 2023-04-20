@@ -39,6 +39,8 @@ FUNÇÕES:
 
 ![Alt text](/Screenshot1.png "Planilha")
 
+Os valores da tabela são as odds consideradas justas pelo modelo. A odd justa é o inverso da probabilidade de um evento acontecer. (um evento com 50% de acontecer irá ter odd justa = 1/0.5 = 2.0
+
 1H: Primeiro tempo
 
 FT: Full-time, Jogo completo
